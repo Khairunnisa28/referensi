@@ -1,0 +1,25 @@
+.bg-body-tertiary {
+  background-color: #f8f9fa; /* Set your desired background color */
+}
+
+/* Add more styling as needed */
+.navbar {
+  padding: 1rem 0;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333; /* Set your desired text color */
+}
+
+.nav-link {
+  font-size: 1rem;
+  color: #555; /* Set your desired text color */
+  margin-right: 1rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #007bff; /* Set your desired hover color */
+}
